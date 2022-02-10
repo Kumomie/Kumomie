@@ -2,7 +2,7 @@
 - 👀 I’m interested in games, music, programming, ..., idk some other things too, I guess
 - 🌱 I’m currently learning alot.
 - 💞️ I’m looking to collaborate on anything.
-- 📫 How to reach me by sending an email or contact me via github (if that's a thing)
+- 📫 How to reach me: By sending an email or contact me via github (if that's a thing)
 
 If someone works on something cool or needs some help, contact me. I just need to check my mails ... (I'm not doing this that regularly) 
 
